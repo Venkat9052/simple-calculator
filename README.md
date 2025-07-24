@@ -20,6 +20,15 @@ This is a simple command-line **calculator** program written in Python that allo
 
 ## 📦 File Structure
 
+## ▶️ How to Run
+
+1. Make sure Python (version 3+) is installed on your system.
+2. Save the code in a file, e.g., `calculator.py`.
+3. Open your terminal or command prompt.
+4. Run the program:
+   ```bash
+   python calculator.py
+
 ## example of code run
 Enter calculation (eg. 2+3) or COMMAND (history,clear,exit): 2+5
 Result: 7
